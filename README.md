@@ -1,4 +1,3 @@
-[Fiooddg.md](https://github.com/user-attachments/files/34762899/Fiooddg.md)
 # VACNet_DemoScope
 
 **A companion page for DemoScope, the CS2 VACNet review toolkit.**
